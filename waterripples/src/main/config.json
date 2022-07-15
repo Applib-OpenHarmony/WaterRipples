@@ -1,0 +1,24 @@
+{
+  "app": {
+    "bundleName": "com.example.waterripple",
+    "vendor": "example",
+    "version": {
+      "code": 1000000,
+      "name": "1.0.0"
+    }
+  },
+  "deviceConfig": {},
+  "module": {
+    "package": "com.example.waterripples",
+    "deviceType": [
+      "phone",
+      "tablet"
+    ],
+    "distro": {
+      "deliveryWithInstall": true,
+      "moduleName": "waterripples",
+      "moduleType": "har"
+    },
+    "uiSyntax": "ets"
+  }
+}
