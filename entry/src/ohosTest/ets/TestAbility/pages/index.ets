@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-import router from '@system.router';
+import router from '@ohos.router';
 
 @Entry
 @Component
@@ -21,7 +21,6 @@ struct Index {
   aboutToAppear() {
     console.info('TestAbility index aboutToAppear')
   }
-
  @State message: string = 'Hello World'
    build() {
          Row() {

@@ -44,7 +44,7 @@ struct Index {
 Supports OpenHarmony API version 8 and above
 ## Directory
 ```
-|---- WaterRipple
+|---- WaterRipples
 |     |---- entry  # sample app usage
 |     |---- waterripples  # Animation library
 |           |----src 
