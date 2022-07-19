@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "waterripples",
+    "type": "har",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ],
+    "uiSyntax": "ets"
+  }
+}
